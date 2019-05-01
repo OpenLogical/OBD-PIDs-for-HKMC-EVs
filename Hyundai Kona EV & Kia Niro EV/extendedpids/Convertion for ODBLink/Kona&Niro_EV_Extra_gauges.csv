@@ -1,0 +1,3 @@
+Name,ShortName,ModeAndPID,Equation,Min Value,Max Value,Units,Header
+Vehicle Speed,Vehicle Speed,220101,((SIGNED(BB)*256)+BC)/66.4,-160,160,km/h,7E4
+

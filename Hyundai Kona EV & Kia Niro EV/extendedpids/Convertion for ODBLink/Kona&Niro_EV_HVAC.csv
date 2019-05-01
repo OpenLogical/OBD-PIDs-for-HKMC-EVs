@@ -1,0 +1,3 @@
+Name,ShortName,ModeAndPID,Equation,Min Value,Max Value,Units,Header
+Outdoor Temperature,Outdoor Temperature,220100,(G/2)-40,-50,50,C,7B3
+Indoor Temperature,Indoor Temperature,220100,(F/2)-40,-50,50,C,7B3

@@ -1,0 +1,4 @@
+Name,ShortName,ModeAndPID,Equation,Min Value,Max Value,Units,Header
+Auxillary Battery SOC,Aux Batt SOC,2102,X,0,100,%,7E2
+Auxillary Battery Current,Aux Batt CURR,2102,(SIGNED(W)*256+V)/1000,-100,100,A,7E2
+Niro_Auxillary Battery Voltage,Aux Batt Volts,2102,(SIGNED(U)*256+T)/1000,11,14.6,V,7E2
